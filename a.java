@@ -1,3 +1,6 @@
+//Question 2)Write a program to display the marks of all the subjects, total and average mark obtaind in last semister.
+//Code:-
+
 import java.util.Scanner;
 
 public class Main {
@@ -27,3 +30,19 @@ public class Main {
         System.out.println("Averge = "+avrg);
     }
 }
+/*Output:- 
+Enter sub1 marks
+90
+Enter sub2 marks
+96
+Enter sub3 marks
+93
+Enter sub4 marks
+99
+Enter sub5 marks
+100
+Total marks = 478.0
+Averge = 95.6
+
+Process finished with exit code 0
+*/
