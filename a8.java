@@ -10,7 +10,7 @@ System.out.println("hello");
 }   
 }   
 
-\\Second code to call D1, D1 is a public class because it's a public class we can call it in another package  
+\\Second code to call D1, D1 is a public class because it's a public class we can call it any where in other class ,package every where. 
   
 package s2;
 import s.*;  
