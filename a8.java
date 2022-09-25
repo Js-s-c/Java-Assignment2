@@ -27,3 +27,28 @@ obj.show();
 Outpute:-
 hello
 */
+
+//another Example of public class
+//Code:-
+class B 
+{   
+//defining method as private  
+public void s()   
+{   
+System.out.println("Hey");   
+}   
+}   
+public class D  
+{   
+public static void main(String args[])   
+{   
+B a = new B();   
+//trying to access private method of the class Demo1  
+a.s();   
+}   
+}
+
+/*
+output:-
+Hey
+*/
